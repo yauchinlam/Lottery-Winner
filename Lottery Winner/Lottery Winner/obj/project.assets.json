@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yauch\\source\\repos\\Lottery Winner\\Lottery Winner\\Lottery Winner.csproj",
+      "projectUniqueName": "C:\\Users\\yauch\\OneDrive\\Documents\\GitHub\\Lottery-Winner\\Lottery Winner\\Lottery Winner\\Lottery Winner.csproj",
       "projectName": "Lottery Winner",
-      "projectPath": "C:\\Users\\yauch\\source\\repos\\Lottery Winner\\Lottery Winner\\Lottery Winner.csproj",
+      "projectPath": "C:\\Users\\yauch\\OneDrive\\Documents\\GitHub\\Lottery-Winner\\Lottery Winner\\Lottery Winner\\Lottery Winner.csproj",
       "packagesPath": "C:\\Users\\yauch\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yauch\\source\\repos\\Lottery Winner\\Lottery Winner\\obj\\",
+      "outputPath": "C:\\Users\\yauch\\OneDrive\\Documents\\GitHub\\Lottery-Winner\\Lottery Winner\\Lottery Winner\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\yauch\\AppData\\Roaming\\NuGet\\NuGet.Config",

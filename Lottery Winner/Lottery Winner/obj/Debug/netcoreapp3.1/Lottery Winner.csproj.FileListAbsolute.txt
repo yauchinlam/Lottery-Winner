@@ -11,3 +11,16 @@ C:\Users\yauch\source\repos\Lottery Winner\Lottery Winner\obj\Debug\netcoreapp3.
 C:\Users\yauch\source\repos\Lottery Winner\Lottery Winner\obj\Debug\netcoreapp3.1\Lottery Winner.dll
 C:\Users\yauch\source\repos\Lottery Winner\Lottery Winner\obj\Debug\netcoreapp3.1\Lottery Winner.pdb
 C:\Users\yauch\source\repos\Lottery Winner\Lottery Winner\obj\Debug\netcoreapp3.1\Lottery Winner.genruntimeconfig.cache
+C:\Users\yauch\OneDrive\Documents\GitHub\Lottery-Winner\Lottery Winner\Lottery Winner\bin\Debug\netcoreapp3.1\Lottery Winner.exe
+C:\Users\yauch\OneDrive\Documents\GitHub\Lottery-Winner\Lottery Winner\Lottery Winner\bin\Debug\netcoreapp3.1\Lottery Winner.deps.json
+C:\Users\yauch\OneDrive\Documents\GitHub\Lottery-Winner\Lottery Winner\Lottery Winner\bin\Debug\netcoreapp3.1\Lottery Winner.runtimeconfig.json
+C:\Users\yauch\OneDrive\Documents\GitHub\Lottery-Winner\Lottery Winner\Lottery Winner\bin\Debug\netcoreapp3.1\Lottery Winner.runtimeconfig.dev.json
+C:\Users\yauch\OneDrive\Documents\GitHub\Lottery-Winner\Lottery Winner\Lottery Winner\bin\Debug\netcoreapp3.1\Lottery Winner.dll
+C:\Users\yauch\OneDrive\Documents\GitHub\Lottery-Winner\Lottery Winner\Lottery Winner\bin\Debug\netcoreapp3.1\Lottery Winner.pdb
+C:\Users\yauch\OneDrive\Documents\GitHub\Lottery-Winner\Lottery Winner\Lottery Winner\obj\Debug\netcoreapp3.1\Lottery Winner.csprojAssemblyReference.cache
+C:\Users\yauch\OneDrive\Documents\GitHub\Lottery-Winner\Lottery Winner\Lottery Winner\obj\Debug\netcoreapp3.1\Lottery Winner.AssemblyInfoInputs.cache
+C:\Users\yauch\OneDrive\Documents\GitHub\Lottery-Winner\Lottery Winner\Lottery Winner\obj\Debug\netcoreapp3.1\Lottery Winner.AssemblyInfo.cs
+C:\Users\yauch\OneDrive\Documents\GitHub\Lottery-Winner\Lottery Winner\Lottery Winner\obj\Debug\netcoreapp3.1\Lottery Winner.csproj.CoreCompileInputs.cache
+C:\Users\yauch\OneDrive\Documents\GitHub\Lottery-Winner\Lottery Winner\Lottery Winner\obj\Debug\netcoreapp3.1\Lottery Winner.dll
+C:\Users\yauch\OneDrive\Documents\GitHub\Lottery-Winner\Lottery Winner\Lottery Winner\obj\Debug\netcoreapp3.1\Lottery Winner.pdb
+C:\Users\yauch\OneDrive\Documents\GitHub\Lottery-Winner\Lottery Winner\Lottery Winner\obj\Debug\netcoreapp3.1\Lottery Winner.genruntimeconfig.cache
